@@ -1,0 +1,1 @@
+TemplateView module is the opposite of ListView module. TemplateView is used to render pages when the site has no database and ListView is used to render templates which are connected to the database. LISTVIEW module pushes all the objects from the database into a list object called "object_list" which we can loop through to display the database contents on our template
